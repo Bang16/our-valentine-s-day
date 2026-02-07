@@ -1,5 +1,8 @@
 name: Deploy Valentine Site
 
+permissions:
+  contents: write    # ← NEW LINE ADDED!
+
 on:
   push:
     branches: [main]
