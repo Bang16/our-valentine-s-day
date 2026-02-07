@@ -18,7 +18,7 @@ jobs:
           node-version: '18'
       
       - name: Install ingredients
-        run: npm ci
+        run: npm install
       
       - name: Bake the cookies
         run: npm run build
