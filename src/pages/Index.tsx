@@ -23,7 +23,7 @@ const Index = () => {
         return (
           <div className="flex flex-col items-center gap-10 animate-fade-in">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-medium text-foreground text-center leading-relaxed">
-              Happy Valentine's Day, Babe ❤️
+              Happy Valentine's Day, Bun ❤️
             </h1>
             <Button
               onClick={() => setScreen("question")}
