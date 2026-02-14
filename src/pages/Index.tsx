@@ -75,55 +75,55 @@ const Index = () => {
           <div className="flex flex-col items-center gap-8 animate-fade-in text-center max-w-lg px-4">
             <div className="space-y-6">
               <p className="text-2xl md:text-3xl lg:text-4xl font-medium text-foreground leading-relaxed">
-                This is our first Valentine’s Day without each other.
+                This is our first Valentine’s Day without each other. <br/>
 
-                And I won’t pretend it feels normal.
+                And I won’t pretend it feels normal.<br/>
 
                 If things were different, if timing, space, and distance hadn’t found their way between us, I believe we’d be writing another love story right now.
                 Maybe a quieter one.
                 Maybe a stronger one.
-                But still ours.
+                But still ours.<br/>
                   
                 I didn’t build this site to change your mind.
-                I built it because loving you has always felt honest to me.
+                I built it because loving you has always felt honest to me.<br/>
                   
                 We’ve known each other for so long that you don’t feel like just a memory I can fold away.
                 You’ve been part of my growth, part of my becoming, part of who I am.
                 And when distance started showing up, it wasn’t small.
-                It felt like something meaningful was slowly shifting into something uncertain.
+                It felt like something meaningful was slowly shifting into something uncertain.<br/>
                   
                 I won’t act like I didn’t feel it.
                 I felt the confusion.
                 I felt the insecurity.
-                I felt the fear of losing something that once felt so sure.
+                I felt the fear of losing something that once felt so sure.<br/>
                   
                 But through all of that, one thing stayed steady:
-                What I felt for you was real.
+                What I felt for you was real.<br/>
                   
                 I don’t want half-love.
                 I don’t want to compete.
-                I don’t want to wonder where I stand.
+                I don’t want to wonder where I stand.<br/>
                   
                 I want something chosen.
                 Freely.
                 Fully.
-                Without hesitation.
+                Without hesitation.<br/>
                   
                 If that’s not where we are anymore, I’ll accept it even if it’s painful.
-                Because love shouldn’t have to convince. It should align.
+                Because love shouldn’t have to convince. It should align.<br/>
                   
                 I’m not here to pressure you.
                 I’m not here to hold you emotionally.
-                I’m just here to be honest.
+                I’m just here to be honest.<br/>
                     
                 And if this is the end of our chapter, I’ll still be grateful it existed.
-                But if there’s even a page left unwritten, I hope it’s written with clarity, not confusion.
+                But if there’s even a page left unwritten, I hope it’s written with clarity, not confusion.<br/>
 
                 Whatever tomorrow brings,
-                I just needed today to be real.
+                I just needed today to be real.<br/>
               </p>
               <p className="text-xl md:text-2xl lg:text-3xl text-foreground leading-relaxed">
-                Take Care and I will see you tomorrow ❤️
+                Take Care and I will see you tomorrow ❤️<br/>
               </p>
               <p className="text-lg md:text-xl text-muted-foreground italic leading-relaxed">
                 Dress cute. I'll be smiling the whole time.😍
