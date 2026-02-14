@@ -79,7 +79,7 @@ const Index = () => {
 
                 And I won’t pretend it feels normal.
 
-                If things were different — if timing, space, and distance hadn’t found their way between us — I believe we’d be writing another love story right now.
+                If things were different, if timing, space, and distance hadn’t found their way between us, I believe we’d be writing another love story right now.
                 Maybe a quieter one.
                 Maybe a stronger one.
                 But still ours.
@@ -109,7 +109,7 @@ const Index = () => {
                 Fully.
                 Without hesitation.
                   
-                If that’s not where we are anymore, I’ll accept it — even if it’s painful.
+                If that’s not where we are anymore, I’ll accept it even if it’s painful.
                 Because love shouldn’t have to convince. It should align.
                   
                 I’m not here to pressure you.
