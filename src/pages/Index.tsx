@@ -52,7 +52,7 @@ const Index = () => {
                 variant="outline"
                 className="px-10 py-6 text-lg rounded-full border-2 border-primary text-foreground hover:bg-accent shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
               >
-                Not yet
+                No
               </Button>
             </div>
           </div>
