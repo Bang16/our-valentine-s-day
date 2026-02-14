@@ -38,7 +38,7 @@ const Index = () => {
         return (
           <div className="flex flex-col items-center gap-10 animate-fade-in">
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-medium text-foreground text-center leading-relaxed">
-              Did you receive your package? 🎁
+              Will you be my Valentines? 🥰
             </h2>
             <div className="flex flex-col sm:flex-row gap-4 mt-4">
               <Button
@@ -65,8 +65,7 @@ const Index = () => {
               Okay 🥹
             </p>
             <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed italic">
-              Come back once you do…<br />
-              this moment is worth it.
+              Come back once you wanna be…<br />
             </p>
           </div>
         );
@@ -76,13 +75,58 @@ const Index = () => {
           <div className="flex flex-col items-center gap-8 animate-fade-in text-center max-w-lg px-4">
             <div className="space-y-6">
               <p className="text-2xl md:text-3xl lg:text-4xl font-medium text-foreground leading-relaxed">
-                Meet me at Paralia after work.
+                This is our first Valentine’s Day without each other.
+
+                And I won’t pretend it feels normal.
+
+                If things were different — if timing, space, and distance hadn’t found their way between us — I believe we’d be writing another love story right now.
+                Maybe a quieter one.
+                Maybe a stronger one.
+                But still ours.
+                  
+                I didn’t build this site to change your mind.
+                I built it because loving you has always felt honest to me.
+                  
+                We’ve known each other for so long that you don’t feel like just a memory I can fold away.
+                You’ve been part of my growth, part of my becoming, part of who I am.
+                And when distance started showing up, it wasn’t small.
+                It felt like something meaningful was slowly shifting into something uncertain.
+                  
+                I won’t act like I didn’t feel it.
+                I felt the confusion.
+                I felt the insecurity.
+                I felt the fear of losing something that once felt so sure.
+                  
+                But through all of that, one thing stayed steady:
+                What I felt for you was real.
+                  
+                I don’t want half-love.
+                I don’t want to compete.
+                I don’t want to wonder where I stand.
+                  
+                I want something chosen.
+                Freely.
+                Fully.
+                Without hesitation.
+                  
+                If that’s not where we are anymore, I’ll accept it — even if it’s painful.
+                Because love shouldn’t have to convince. It should align.
+                  
+                I’m not here to pressure you.
+                I’m not here to hold you emotionally.
+                I’m just here to be honest.
+                    
+                And if this is the end of our chapter, I’ll still be grateful it existed.
+                But if there’s even a page left unwritten, I hope it’s written with clarity, not confusion.
+
+                Whatever tomorrow brings,
+                I just needed today to be real.
               </p>
               <p className="text-xl md:text-2xl lg:text-3xl text-foreground leading-relaxed">
-                I heart you more ❤️
+                Take Care and I will see you tomorrow ❤️
               </p>
               <p className="text-lg md:text-xl text-muted-foreground italic leading-relaxed">
-                Dress cute. I'll be smiling the whole time.
+                Dress cute. I'll be smiling the whole time.😍
               </p>
             </div>
             
